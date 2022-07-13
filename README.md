@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raghav Anand
+- 👋 Hi, I’m Raghav Anand(font size:25)
 - 👀 I’m interested in the field of Computer Science.
 - 🌱 I’m currently learning something new.
 - 💞️ I’m looking to collaborate on LinkedIn.
