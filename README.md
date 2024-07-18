@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Anand</h1>
-<h3 align="center">A passionate Computer Science Student.</h3>
+<h3 align="center">A passionate Data Scientist.</h3>
 
 
 
